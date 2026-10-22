@@ -1,0 +1,8 @@
+Objeto
+
+banquinho
+cama
+sofá
+cadeira
+armário
+guarda-roupa
